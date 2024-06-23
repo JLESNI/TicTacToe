@@ -5,4 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(TicTacToe main.cpp
         grid.h
-        grid.cpp)
+        grid.cpp
+        menu.h
+        menu.cpp)
