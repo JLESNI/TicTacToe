@@ -7,4 +7,6 @@ add_executable(TicTacToe main.cpp
         grid.h
         grid.cpp
         menu.h
-        menu.cpp)
+        menu.cpp
+        pVp.h
+        pVp.cpp)
